@@ -1,0 +1,8 @@
+.context{
+  display: flex;
+  border: solid green;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+
+}
